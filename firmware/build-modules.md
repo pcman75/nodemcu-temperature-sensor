@@ -1,0 +1,1 @@
+You selected the following 13 modules: adc bme280 dht enduser_setup file gpio http mqtt net node tmr uart wifi.
